@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthik</h1>
 <h3 align="center">A passionate Product Design Freelancer from India 🇮🇳</h3>
-<img align='center' alt='coding' width='400' src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+<img align='right' alt='coding' width='200' src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 
 - 🌱 I’m currently learning **Dev-ops**
